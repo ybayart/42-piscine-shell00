@@ -1,0 +1,5 @@
+Credentials cache: API:3ECC8830-97A9-4FC3-852B-B2F7536BEDFB
+        Principal: ybayart@42.FR
+
+  Issued                Expires               Principal
+Jul 29 15:58:27 2019  Aug  5 15:58:16 2019  krbtgt/42.FR@42.FR
